@@ -12,4 +12,4 @@ for i in range(len(days)):
     day = days[i]
     mood = random.choice(moods)
 
-    print(f"On {day} you were feeling {mood}")
+    print(f"On {day} you were feeling {mood}.")
